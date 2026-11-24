@@ -14,8 +14,8 @@ No battle passes, no pay-to-win loadouts, no bloated menus—just tight movement
 ## Play & Download
 
 * **Play in Browser:** [**https://laserfast.net**](https://laserfast.net)
-* **Windows (PC + Server Hosting):** [`LaserFast-Windows.zip`](https://github.com/SubClimax-DJ/LaserFast-Downloads/releases/latest/download/LaserFast-Windows.zip)
-* **Linux (PC + Server Hosting):** [`LaserFast-Linux.zip`](https://github.com/SubClimax-DJ/LaserFast-Downloads/releases/latest/download/LaserFast-Linux.zip)
+* **Windows (PC + Server Hosting):** [`LaserFast.exe`](https://github.com/SubClimax-DJ/LaserFast-Downloads/releases/latest/download/LaserFast.exe)
+* **Linux (PC + Server Hosting):** [`LaserFast.x86_64`](https://github.com/SubClimax-DJ/LaserFast-Downloads/releases/latest/download/LaserFast.x86_64)
 * **All Releases:** [Releases Page](https://github.com/SubClimax-DJ/LaserFast-Downloads/releases)
 
 ---
